@@ -1,8 +1,10 @@
 var Campground = require("../models/campground");
 var Comment = require("../models/comment");
 
+
 // all the middleare goes here
 var middlewareObj = {};
+
 
 middlewareObj.checkCampgroundOwnership = function(req, res, next) {
  if(req.isAuthenticated()){
@@ -26,6 +28,7 @@ middlewareObj.checkCampgroundOwnership = function(req, res, next) {
     }
 }
 
+
 middlewareObj.checkCommentOwnership = function(req, res, next) {
  if(req.isAuthenticated()){
         Comment.findById(req.params.comment_id, function(err, foundComment){
@@ -47,6 +50,7 @@ middlewareObj.checkCommentOwnership = function(req, res, next) {
     }
 }
 
+
 middlewareObj.isLoggedIn = function(req, res, next){
     if(req.isAuthenticated()){
         return next();
@@ -54,5 +58,6 @@ middlewareObj.isLoggedIn = function(req, res, next){
     req.flash("error", "You need to be logged in to do that");
     res.redirect("/login");
 }
+
 
 module.exports = middlewareObj;
