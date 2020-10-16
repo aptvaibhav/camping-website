@@ -1,5 +1,6 @@
 # camping-website
 
+
 ## Title: Camping Website
 
 > Camping is an outdoor activity involving overnight stays away from home in a shelter, such as a tent or a recreational vehicle. Typically participants leave developed areas to spend time outdoors in more natural ones in pursuit of activities providing them enjoyment. The night (or more) spent outdoors distinguishes camping from day-tripping, picnicking, and other similarly short-term recreational activities.
@@ -8,6 +9,6 @@
 
 > There are two main types of survival camping, “base camp” and “walk out”. In "base camp" survival camping, campers typically walk to an isolated spot where they make camp and survive on what they find there for a certain amount of time before returning.
 
-> As a pastime, camping took off in popularity in the British Isles towards the end of the 19th century, as the Victorian era drew to a close. 
+
 
 > This website is about Camping, travelling and exploring. Hope you Enjoy! :)
