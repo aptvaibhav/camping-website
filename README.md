@@ -9,6 +9,8 @@
 
 > There are two main types of survival camping, “base camp” and “walk out”. In "base camp" survival camping, campers typically walk to an isolated spot where they make camp and survive on what they find there for a certain amount of time before returning.
 
-
-
 > This website is about Camping, travelling and exploring. Hope you Enjoy! :)
+
+## Camping in India
+
+> Camping and campers form much less of the landscape in India than they do in places like Europe, the US and Australia.
