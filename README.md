@@ -14,3 +14,5 @@
 ## Camping in India
 
 > Camping and campers form much less of the landscape in India than they do in places like Europe, the US and Australia.
+
+> But there is, nevertheless, a dedicated, enthusiastic and growing bunch of campers who are looking to make the most of India’s natural beauty by setting up camp in out-of-the-way places, as far away from civilization as possible. Indeed, India has plenty of beauty spots for the happy camper – and the adventurous one.
